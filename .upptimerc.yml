@@ -11,9 +11,9 @@ sites:
     url: $API_DEV_URL
     expectedStatusCodes:
       - 200
-  - name: RS
+  - name: ResourceSpace
     url: $RS_URL
-  - name: OO
+  - name: Only Office
     url: $OO_URL
     expectedStatusCodes:
       - 200
