@@ -19,6 +19,8 @@ sites:
       - 200
   - name: NCDB
     url: $NCDB_URL
+  - name: Kibana
+    url: $KIBANA_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
