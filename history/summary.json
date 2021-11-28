@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 115,
-    "timeWeek": 139,
-    "timeMonth": 172,
-    "timeYear": 188,
+    "time": 189,
+    "timeDay": 256,
+    "timeWeek": 153,
+    "timeMonth": 171,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 181,
-    "timeDay": 114,
-    "timeWeek": 126,
+    "time": 183,
+    "timeDay": 256,
+    "timeWeek": 141,
     "timeMonth": 165,
-    "timeYear": 181,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2021-10-22": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 340,
-    "timeWeek": 331,
-    "timeMonth": 394,
-    "timeYear": 405,
+    "time": 409,
+    "timeDay": 556,
+    "timeWeek": 367,
+    "timeMonth": 393,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 169,
-    "timeWeek": 177,
-    "timeMonth": 216,
-    "timeYear": 219,
+    "time": 222,
+    "timeDay": 313,
+    "timeWeek": 193,
+    "timeMonth": 215,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2021-11-25": 8
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 266,
-    "timeDay": 197,
-    "timeWeek": 194,
-    "timeMonth": 244,
-    "timeYear": 266,
+    "time": 268,
+    "timeDay": 383,
+    "timeWeek": 214,
+    "timeMonth": 242,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2021-11-25": 8
     }
@@ -101,16 +101,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kibana",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 297,
-    "timeDay": 256,
-    "timeWeek": 271,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 320,
+    "timeDay": 527,
+    "timeWeek": 310,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2021-11-19": 21
     }
