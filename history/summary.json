@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 132,
-    "timeWeek": 152,
-    "timeMonth": 166,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 155,
+    "timeWeek": 158,
+    "timeMonth": 167,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 182,
-    "timeDay": 138,
-    "timeWeek": 140,
-    "timeMonth": 161,
-    "timeYear": 182,
+    "time": 181,
+    "timeDay": 121,
+    "timeWeek": 141,
+    "timeMonth": 160,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2021-10-22": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 339,
-    "timeWeek": 367,
-    "timeMonth": 387,
-    "timeYear": 407,
+    "time": 405,
+    "timeDay": 316,
+    "timeWeek": 358,
+    "timeMonth": 386,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 222,
-    "timeDay": 221,
+    "time": 221,
+    "timeDay": 201,
     "timeWeek": 199,
     "timeMonth": 212,
-    "timeYear": 222,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2021-11-25": 8
     }
@@ -81,16 +81,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ncdb",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 267,
-    "timeDay": 195,
-    "timeWeek": 215,
+    "uptimeYear": "99.99%",
+    "time": 265,
+    "timeDay": 215,
+    "timeWeek": 216,
     "timeMonth": 237,
-    "timeYear": 267,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2021-11-25": 8
     }
@@ -101,16 +101,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kibana",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 317,
-    "timeDay": 285,
-    "timeWeek": 308,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 312,
+    "timeDay": 261,
+    "timeWeek": 307,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2021-11-19": 21
     }
