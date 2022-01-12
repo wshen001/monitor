@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
+    "time": 186,
     "timeDay": 133,
-    "timeWeek": 211,
-    "timeMonth": 192,
-    "timeYear": 187,
+    "timeWeek": 193,
+    "timeMonth": 191,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 179,
-    "timeDay": 160,
-    "timeWeek": 200,
-    "timeMonth": 184,
-    "timeYear": 179,
+    "time": 178,
+    "timeDay": 116,
+    "timeWeek": 180,
+    "timeMonth": 183,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2021-10-22": 18
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 347,
-    "timeWeek": 467,
-    "timeMonth": 433,
+    "timeDay": 430,
+    "timeWeek": 445,
+    "timeMonth": 436,
     "timeYear": 414,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 173,
-    "timeWeek": 253,
-    "timeMonth": 235,
+    "timeDay": 175,
+    "timeWeek": 235,
+    "timeMonth": 234,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2021-12-27": 11,
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 259,
-    "timeDay": 192,
-    "timeWeek": 291,
+    "time": 258,
+    "timeDay": 188,
+    "timeWeek": 266,
     "timeMonth": 261,
-    "timeYear": 259,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2021-11-25": 8
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 337,
-    "timeDay": 251,
-    "timeWeek": 394,
-    "timeMonth": 354,
-    "timeYear": 337,
+    "time": 336,
+    "timeDay": 305,
+    "timeWeek": 366,
+    "timeMonth": 355,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2021-12-27": 12,
       "2021-11-19": 21
