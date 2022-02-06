@@ -1,7 +1,7 @@
 url: $NCDB_URL
-status: down
-code: 502
-responseTime: 120
-lastUpdated: 2022-02-06T17:48:27.649Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2022-02-06T18:19:13.222Z
 startTime: Fri Oct 22 2021 02:58:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
