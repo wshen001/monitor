@@ -45,10 +45,10 @@
     "url": "$RS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "resource-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 414,
@@ -57,6 +57,7 @@
     "timeMonth": 416,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2022-04-20": 1,
       "2022-04-03": 10,
       "2022-02-07": 23
     }
@@ -66,9 +67,9 @@
     "url": "$OO_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "only-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -78,6 +79,7 @@
     "timeMonth": 214,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2022-04-20": 0,
       "2022-04-03": 9,
       "2022-02-07": 23,
       "2021-12-27": 11,
