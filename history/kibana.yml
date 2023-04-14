@@ -1,7 +1,7 @@
 url: $KIBANA_URL
 status: up
 code: 200
-responseTime: 344
-lastUpdated: 2023-04-13T23:00:39.166Z
+responseTime: 259
+lastUpdated: 2023-04-14T23:00:39.049Z
 startTime: Fri Nov 19 2021 19:57:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
