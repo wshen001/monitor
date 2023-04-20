@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
-    "time": 212,
-    "timeDay": 158,
-    "timeWeek": 172,
-    "timeMonth": 186,
+    "time": 211,
+    "timeDay": 125,
+    "timeWeek": 170,
+    "timeMonth": 185,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2023-04-11": 25,
@@ -37,8 +37,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
     "time": 197,
-    "timeDay": 154,
-    "timeWeek": 163,
+    "timeDay": 156,
+    "timeWeek": 169,
     "timeMonth": 187,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -63,8 +63,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 477,
-    "timeDay": 353,
-    "timeWeek": 421,
+    "timeDay": 330,
+    "timeWeek": 416,
     "timeMonth": 455,
     "timeYear": 504,
     "dailyMinutesDown": {
@@ -98,8 +98,7 @@
       "2022-05-13": 10,
       "2022-05-09": 13,
       "2022-04-26": 12,
-      "2022-04-22": 22,
-      "2022-04-20": 9
+      "2022-04-22": 22
     }
   },
   {
@@ -113,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 238,
-    "timeDay": 194,
+    "time": 237,
+    "timeDay": 197,
     "timeWeek": 227,
-    "timeMonth": 233,
+    "timeMonth": 234,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2023-04-11": 57,
@@ -149,8 +148,7 @@
       "2022-05-13": 10,
       "2022-05-09": 12,
       "2022-04-26": 12,
-      "2022-04-22": 21,
-      "2022-04-20": 8
+      "2022-04-22": 21
     }
   },
   {
@@ -159,15 +157,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ncdb",
     "status": "up",
-    "uptime": "94.69%",
+    "uptime": "94.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "92.14%",
     "time": 304,
-    "timeDay": 235,
-    "timeWeek": 290,
-    "timeMonth": 312,
+    "timeDay": 259,
+    "timeWeek": 292,
+    "timeMonth": 313,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2023-04-11": 25,
@@ -220,8 +218,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 344,
-    "timeDay": 250,
-    "timeWeek": 306,
+    "timeDay": 266,
+    "timeWeek": 312,
     "timeMonth": 328,
     "timeYear": 359,
     "dailyMinutesDown": {
