@@ -1,7 +1,7 @@
 url: $RS_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-11T04:58:48.663Z
+status: up
+code: 200
+responseTime: 506
+lastUpdated: 2023-09-11T05:08:24.035Z
 startTime: 2021-10-26T17:06:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
