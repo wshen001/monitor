@@ -1,7 +1,7 @@
 url: $KIBANA_URL
 status: down
 code: 502
-responseTime: 90
-lastUpdated: 2024-03-14T23:00:19.917Z
+responseTime: 233
+lastUpdated: 2024-03-15T23:00:23.168Z
 startTime: 2021-11-19T19:57:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
