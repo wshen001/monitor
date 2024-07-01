@@ -1,7 +1,7 @@
 url: $OO_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-01T19:28:56.756Z
+status: up
+code: 200
+responseTime: 249
+lastUpdated: 2024-07-01T19:37:12.533Z
 startTime: 2021-10-26T17:06:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
