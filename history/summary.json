@@ -28,7 +28,7 @@
     "url": "$API_DEV_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "96.87%",
     "uptimeWeek": "99.55%",
@@ -40,6 +40,7 @@
     "timeMonth": 191,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-07-01": 44,
       "2024-04-04": 7,
       "2024-03-15": 8,
@@ -136,7 +137,7 @@
     "timeMonth": 184,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-07-02": 146,
+      "2024-07-02": 212,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
