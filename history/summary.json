@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 232,
-    "timeWeek": 239,
-    "timeMonth": 218,
+    "timeDay": 267,
+    "timeWeek": 241,
+    "timeMonth": 220,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-07-01": 28,
-      "2024-04-04": 19,
-      "2024-03-15": 9
+      "2024-04-04": 19
     }
   },
   {
@@ -33,15 +32,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 221,
+    "timeDay": 312,
     "timeWeek": 251,
-    "timeMonth": 219,
-    "timeYear": 203,
+    "timeMonth": 225,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2024-07-02": 8,
       "2024-07-01": 44,
-      "2024-04-04": 7,
-      "2024-03-15": 8
+      "2024-04-04": 7
     }
   },
   {
@@ -56,14 +54,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 481,
-    "timeDay": 547,
-    "timeWeek": 556,
-    "timeMonth": 496,
-    "timeYear": 490,
+    "timeDay": 687,
+    "timeWeek": 568,
+    "timeMonth": 508,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2024-07-02": 16,
-      "2024-04-04": 7,
-      "2024-03-15": 6
+      "2024-04-04": 7
     }
   },
   {
@@ -77,14 +74,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 339,
-    "timeWeek": 318,
-    "timeMonth": 277,
-    "timeYear": 269,
+    "time": 259,
+    "timeDay": 357,
+    "timeWeek": 307,
+    "timeMonth": 280,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-07-01": 18,
-      "2024-03-15": 6
+      "2024-07-01": 18
     }
   },
   {
@@ -99,13 +95,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 314,
-    "timeWeek": 370,
-    "timeMonth": 346,
-    "timeYear": 310,
+    "timeDay": 433,
+    "timeWeek": 374,
+    "timeMonth": 354,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2024-07-01": 10,
-      "2024-03-15": 5
+      "2024-07-01": 10
     }
   },
   {
@@ -114,18 +109,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kibana",
     "status": "down",
-    "uptime": "43.39%",
+    "uptime": "43.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 181,
-    "timeDay": 201,
-    "timeWeek": 260,
-    "timeMonth": 215,
-    "timeYear": 187,
+    "timeDay": 259,
+    "timeWeek": 253,
+    "timeMonth": 219,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-03-14": 11,
+      "2025-03-15": 11,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -488,8 +484,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]
