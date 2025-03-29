@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 254,
-    "timeWeek": 200,
-    "timeMonth": 214,
+    "timeDay": 199,
+    "timeWeek": 197,
+    "timeMonth": 213,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-07-01": 28,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 287,
-    "timeWeek": 221,
-    "timeMonth": 224,
+    "timeDay": 154,
+    "timeWeek": 207,
+    "timeMonth": 222,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-07-02": 8,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 641,
-    "timeWeek": 467,
-    "timeMonth": 508,
-    "timeYear": 491,
+    "timeDay": 417,
+    "timeWeek": 468,
+    "timeMonth": 505,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2024-07-02": 16,
       "2024-04-04": 7
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 290,
-    "timeWeek": 235,
+    "timeDay": 258,
+    "timeWeek": 237,
     "timeMonth": 266,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 388,
-    "timeWeek": 270,
-    "timeMonth": 313,
-    "timeYear": 311,
+    "timeDay": 280,
+    "timeWeek": 261,
+    "timeMonth": 312,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2024-07-01": 10
     }
@@ -109,18 +109,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kibana",
     "status": "down",
-    "uptime": "42.90%",
+    "uptime": "42.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 251,
-    "timeWeek": 187,
-    "timeMonth": 222,
+    "timeDay": 159,
+    "timeWeek": 185,
+    "timeMonth": 220,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-03-28": 11,
+      "2025-03-29": 11,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -483,8 +484,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   }
 ]
