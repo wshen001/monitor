@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 220,
-    "timeWeek": 253,
-    "timeMonth": 224,
+    "timeDay": 217,
+    "timeWeek": 248,
+    "timeMonth": 223,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-01": 28,
-      "2024-04-04": 19
+      "2024-07-01": 28
     }
   },
   {
@@ -32,14 +31,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 180,
-    "timeWeek": 228,
-    "timeMonth": 227,
+    "timeDay": 226,
+    "timeWeek": 219,
+    "timeMonth": 225,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-07-02": 8,
-      "2024-07-01": 44,
-      "2024-04-04": 7
+      "2024-07-01": 44
     }
   },
   {
@@ -54,13 +52,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 481,
-    "timeWeek": 524,
-    "timeMonth": 512,
-    "timeYear": 490,
+    "timeDay": 493,
+    "timeWeek": 503,
+    "timeMonth": 508,
+    "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-07-02": 16,
-      "2024-04-04": 7
+      "2024-07-02": 16
     }
   },
   {
@@ -75,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 233,
-    "timeWeek": 265,
-    "timeMonth": 269,
-    "timeYear": 265,
+    "timeDay": 239,
+    "timeWeek": 258,
+    "timeMonth": 266,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-07-01": 18
     }
@@ -89,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ncdb",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 289,
-    "timeWeek": 323,
-    "timeMonth": 316,
+    "timeDay": 248,
+    "timeWeek": 303,
+    "timeMonth": 312,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-07-01": 10
@@ -109,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kibana",
     "status": "down",
-    "uptime": "42.69%",
+    "uptime": "42.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 223,
-    "timeWeek": 218,
-    "timeMonth": 222,
-    "timeYear": 189,
+    "timeDay": 166,
+    "timeWeek": 206,
+    "timeMonth": 217,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-03": 11,
+      "2025-04-04": 11,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -483,8 +481,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   }
 ]
