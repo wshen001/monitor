@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 133,
-    "timeWeek": 202,
+    "timeDay": 230,
+    "timeWeek": 204,
     "timeMonth": 217,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-07-01": 28
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 164,
-    "timeWeek": 206,
-    "timeMonth": 216,
+    "time": 201,
+    "timeDay": 211,
+    "timeWeek": 204,
+    "timeMonth": 214,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2024-07-02": 8,
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 354,
-    "timeWeek": 504,
-    "timeMonth": 501,
-    "timeYear": 488,
+    "timeDay": 548,
+    "timeWeek": 512,
+    "timeMonth": 500,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2024-07-02": 16
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 259,
-    "timeWeek": 268,
-    "timeMonth": 261,
+    "timeDay": 281,
+    "timeWeek": 274,
+    "timeMonth": 260,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2024-07-01": 18
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 236,
-    "timeWeek": 287,
-    "timeMonth": 300,
+    "timeDay": 328,
+    "timeWeek": 298,
+    "timeMonth": 301,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2024-07-01": 10
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kibana",
     "status": "down",
-    "uptime": "42.44%",
+    "uptime": "42.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 182,
-    "timeDay": 204,
-    "timeWeek": 188,
+    "time": 183,
+    "timeDay": 199,
+    "timeWeek": 192,
     "timeMonth": 203,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-04-10": 11,
+      "2025-04-11": 11,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -480,8 +481,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   }
 ]
