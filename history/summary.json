@@ -40,19 +40,19 @@
     "url": "$RS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resource-space",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 490,
-    "timeDay": 409,
-    "timeWeek": 431,
-    "timeMonth": 524,
+    "timeDay": 394,
+    "timeWeek": 423,
+    "timeMonth": 519,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 53
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 205,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-24": 830,
+      "2025-07-24": 882,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
