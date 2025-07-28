@@ -78,18 +78,20 @@
     "url": "$NCDB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ncdb",
-    "status": "up",
+    "status": "down",
     "uptime": "97.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 197,
-    "timeWeek": 309,
-    "timeMonth": 318,
+    "timeDay": 218,
+    "timeWeek": 300,
+    "timeMonth": 316,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Kibana",
@@ -97,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kibana",
     "status": "down",
-    "uptime": "39.01%",
+    "uptime": "38.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -108,7 +110,7 @@
     "timeMonth": 206,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-28": 14,
+      "2025-07-28": 1019,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
