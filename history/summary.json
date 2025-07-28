@@ -60,18 +60,20 @@
     "url": "$OO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "only-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 177,
-    "timeWeek": 273,
-    "timeMonth": 281,
+    "timeDay": 214,
+    "timeWeek": 270,
+    "timeMonth": 280,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "NCDB",
@@ -80,9 +82,9 @@
     "slug": "ncdb",
     "status": "down",
     "uptime": "97.87%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 308,
     "timeDay": 218,
@@ -90,7 +92,7 @@
     "timeMonth": 316,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-07-28": 0
+      "2025-07-28": 13
     }
   },
   {
@@ -110,7 +112,7 @@
     "timeMonth": 206,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-07-28": 1019,
+      "2025-07-28": 1032,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
